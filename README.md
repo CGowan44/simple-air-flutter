@@ -2,15 +2,15 @@
 
 Flutter Weather/Air Quality App
 
-## Getting Started
+## Current Features
+ - Obtains data using the IQAir AirVisual API. Data originates from the nearest city to the current location of the device.
+ - Displays basic weather condition, temperature, nearest city, an icon to represent the weather condition, and the AQI number.
+ - The accent color changes based on the AQI.
+ - Refresh button
+ - Information screen
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## To-Do
+ - Clean up/modularize code
+ - More error handling
+ - UI scaling
+ - Testing
