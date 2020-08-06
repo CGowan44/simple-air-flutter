@@ -8,6 +8,7 @@ Flutter Weather/Air Quality App
  - The accent color changes based on the AQI.
  - Refresh button
  - Information screen
+ - Custom Android app icons
 
 ## To-Do
  - Clean up/modularize code
